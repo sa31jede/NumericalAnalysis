@@ -1,3 +1,7 @@
 # NumericalAnalysis
 
-This repository contains some Python implementations of numerical analysis methods such as numeric integration, fixed-point iteration, or spline interpolation.
+This repository contains Python implementations for numerical analysis. 
+
+The repository contains:
+
+  * `fpiter.py` : Fixed-point iteration for solving a (nonlinear) systems of equation.
